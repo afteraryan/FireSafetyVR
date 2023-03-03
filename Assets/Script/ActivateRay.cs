@@ -9,9 +9,11 @@ public class ActivateRay : MonoBehaviour
 
     [SerializeField] InputActionProperty RightActivateAction;
 
+    [SerializeField] InputActionProperty GrabActivateAction;
+
     // Update is called once per frame
     void Update()
     {
-        RightHandRay.SetActive(RightActivateAction.action.ReadValue<float>() > 0.1f);
+        RightHandRay.SetActive(GrabActivateAction.action.ReadValue<float>() == 0 && RightActivateAction.action.ReadValue<Vector2>().y <= -0.5f);
     }
 }

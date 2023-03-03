@@ -976,7 +976,7 @@
                     "name": "",
                     "id": "d6c08c3d-3d41-4695-994d-1ac9016a5a9e",
                     "path": "<XRController>{RightHand}/Primary2DAxis",
-                    "interactions": "Sector(directions=12,sweepBehavior=1),Sector(directions=2,sweepBehavior=2)",
+                    "interactions": "Sector(directions=12,sweepBehavior=1)",
                     "processors": "",
                     "groups": "Generic XR Controller",
                     "action": "Turn",
@@ -1502,7 +1502,7 @@
                     "name": "Down",
                     "type": "Value",
                     "id": "58c62204-c9e3-450c-8245-61e72af8fa55",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
@@ -1511,9 +1511,9 @@
             "bindings": [
                 {
                     "name": "",
-                    "id": "7270d138-cfdb-4f10-8cfc-276283dfb2d0",
-                    "path": "<Joystick>/stick/down",
-                    "interactions": "",
+                    "id": "649196bf-6a0c-4cb8-be77-6456568fc43a",
+                    "path": "<XRController>{RightHand}/Primary2DAxis",
+                    "interactions": "Sector(directions=2)",
                     "processors": "",
                     "groups": "Generic XR Controller",
                     "action": "Down",
