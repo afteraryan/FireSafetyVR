@@ -33834,7 +33834,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3561431651520513239}
-  m_Layer: 0
+  - component: {fileID: 8936064884398970472}
+  - component: {fileID: 1869884079}
+  m_Layer: 9
   m_Name: PS_Fire1_Cardboard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33849,9 +33851,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6230273456705485839}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 59.953995, y: 19.047956, z: 10.521153}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 3181164050071513782}
   - {fileID: 2584985511602902565}
@@ -33861,6 +33863,43 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!135 &8936064884398970472
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6230273456705485839}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.8684141
+  m_Center: {x: 0, y: 0.24333662, z: 0}
+--- !u!114 &1869884079
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6230273456705485839}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e33366f50f0f939428d0c4c1a52b7173, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameObjects:
+  - {fileID: 2675164064298323685}
+  - {fileID: 5646574668065713026}
+  - {fileID: 8553604137460958079}
+  - {fileID: 1359665847492318101}
+  - {fileID: 6745076927382419681}
+  - {fileID: 5718622698237695865}
+  - {fileID: 6993552897134414849}
+  - {fileID: 5513516419921458737}
+  - {fileID: 1631034022641948870}
+  - {fileID: 6212017599144197329}
+  - {fileID: 8211133876048960970}
 --- !u!1 &6745076927382419681
 GameObject:
   m_ObjectHideFlags: 0
@@ -48387,7 +48426,7 @@ Light:
   m_BounceIntensity: 0
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 7.52e-43, y: 7.1e-44, z: 0, w: 3669.5215}
+  m_BoundingSphereOverride: {x: NaN, y: 3.4e-44, z: 0, w: -1.0882781e+33}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0

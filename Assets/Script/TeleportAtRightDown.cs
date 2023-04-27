@@ -14,8 +14,4 @@ public class TeleportAtRightDown : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
-    {
-        Debug.Log(StickDown.action.ReadValue<Vector2>());
-    }
 }
