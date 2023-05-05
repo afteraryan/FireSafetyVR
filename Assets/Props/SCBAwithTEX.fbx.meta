@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 50f495989742bca4da2865da8ccf20c4
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DialImg
+    second: {fileID: 2800000, guid: bdb261756f0efea40b4964fea7976efd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBA_Cyl_Circle_BaseColor
+    second: {fileID: 2800000, guid: 53dcef4d1c05e874cbe279e457aa974d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBA_Cyl_Circle_Metallic
+    second: {fileID: 2800000, guid: 7d02180ab85c65f48b5195a94041a404, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBA_Cyl_Circle_Normal
+    second: {fileID: 2800000, guid: f07b2e38aab392246bb83f0dd71e6181, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBA_Cyl_Circle_Roughness
+    second: {fileID: 2800000, guid: fdd2764a32b9d834bacaaeeab34280e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBA_Cyl_circleDown_BaseColor
+    second: {fileID: 2800000, guid: d0b21d4197ab8e84282190b35001ea13, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBA_Cyl_circleDown_Metallic
+    second: {fileID: 2800000, guid: 323dc93ecdc6fe648a4c9f9405087fb3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBA_Cyl_circleDown_Normal
+    second: {fileID: 2800000, guid: c713547e9a576d642bb5c7185dc07df2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBA_Cyl_circleDown_Roughness
+    second: {fileID: 2800000, guid: 5f073ac99d7e81c4089761207f244b0b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBA_Cylinder_BaseColor
+    second: {fileID: 2800000, guid: 42968297da01a2b4f8553006ea80adde, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBA_Cylinder_Metallic
+    second: {fileID: 2800000, guid: ee0536c64cc97f84d962f0b072a04345, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBA_Cylinder_Normal
+    second: {fileID: 2800000, guid: 5c8d5122a88e6a9498da6cf81c61135c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBA_Cylinder_Roughness
+    second: {fileID: 2800000, guid: 82bca68c227e0134d96d6ab4d82adf86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBA_cyl_Top_BaseColor
+    second: {fileID: 2800000, guid: af02edefb7f2b9342b322dc19534d39e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBA_cyl_Top_Metallic
+    second: {fileID: 2800000, guid: 39ee5d148d5294c45b41db90eeead26b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBA_cyl_Top_Normal
+    second: {fileID: 2800000, guid: 47b1a970589c59443af8bbd0e30caad9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBA_cyl_Top_Roughness
+    second: {fileID: 2800000, guid: 753e61d4b557232428bc96d8bb0bd120, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBA_cyl_circle1_BaseColor
+    second: {fileID: 2800000, guid: 72e682f2d4f21a4409aa0834fc807589, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBA_cyl_circle1_Metallic
+    second: {fileID: 2800000, guid: d6e594375a14db34684de227999e58e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBA_cyl_circle1_Normal
+    second: {fileID: 2800000, guid: 7447dd622d6e6ec4bb41bbb8c6afb3e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBA_cyl_circle1_Roughness
+    second: {fileID: 2800000, guid: a402dec943eb3a648bdae19ddc9fc026, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBAextra_PipeAttachment_BaseColor
+    second: {fileID: 2800000, guid: dd7ab42add4a2be4090a26233ed232d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBAextra_PipeAttachment_Metallic
+    second: {fileID: 2800000, guid: a85458af4840af440b0454e462dabe9a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBAextra_PipeAttachment_Normal
+    second: {fileID: 2800000, guid: befb8622fcdd9d749915ff9028147af8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBAextra_PipeAttachment_Roughness
+    second: {fileID: 2800000, guid: 64880628635e3b7419bb347aab376ad6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBAextra_RotatingDial_BaseColor
+    second: {fileID: 2800000, guid: 33ad6d70d38e35c4aaa0fb68a7da8e8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBAextra_RotatingDial_Metallic
+    second: {fileID: 2800000, guid: a7f79c6815c451843bddea3a4b9c7c81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBAextra_RotatingDial_Normal
+    second: {fileID: 2800000, guid: a57bd046ebbe14d41bb4ce3018b72258, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBAextra_RotatingDial_Roughness
+    second: {fileID: 2800000, guid: 1f855d5b2e3e2054e96fa1cd2d2db2fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBAextra_pipeAttachmentFirst_BaseColor
+    second: {fileID: 2800000, guid: 4a167eee3bf8b6840bd07eecefb01589, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBAextra_pipeAttachmentFirst_Metallic
+    second: {fileID: 2800000, guid: a1939170520ef28409c7cdd9d8274427, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBAextra_pipeAttachmentFirst_Normal
+    second: {fileID: 2800000, guid: db0f4851c2f2e50409d4387ad8355819, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SCBAextra_pipeAttachmentFirst_Roughness
+    second: {fileID: 2800000, guid: 353e0b82011358a498fba3219977eb72, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StickerSCBA
+    second: {fileID: 2800000, guid: b0a00f3b5ac00b14dbecb8cd81ccea4e, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

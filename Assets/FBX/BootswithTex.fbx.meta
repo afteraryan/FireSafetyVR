@@ -1,0 +1,306 @@
+fileFormatVersion: 2
+guid: ac0eb8c2fc81c914ea525d02fcf9ec38
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontShoe
+    second: {fileID: 2100000, guid: cb72ca0859522db4cbb7b009d24611d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShoeShole
+    second: {fileID: 2100000, guid: 3de27d0189785e34fb60a6b0690de668, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sticker2
+    second: {fileID: 2100000, guid: f18f71cf3a209da489015eb986763c5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sticker3
+    second: {fileID: 2100000, guid: 80772885914d0ee4d8a7450377b4cfbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sticker4
+    second: {fileID: 2100000, guid: aa3395e71b2149344a9ca50bd4e82a34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoes
+    second: {fileID: 2100000, guid: d4f8585109c214d4e97aa57b1d77e032, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sticker1
+    second: {fileID: 2100000, guid: 76e8cf27f1140ad4cba9ca9329081010, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: top
+    second: {fileID: 2100000, guid: 9280577974f2ffb4d8e2c64a5ea63376, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_FrontShoe_BaseColor
+    second: {fileID: 2800000, guid: d08e2e265638f68489f7ebe05e4f3a0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_FrontShoe_Metallic
+    second: {fileID: 2800000, guid: a38f6dcb3696fe04b998692690b35788, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_FrontShoe_Normal
+    second: {fileID: 2800000, guid: 598486fa5b727914f8f4637f744c56a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_FrontShoe_Roughness
+    second: {fileID: 2800000, guid: 039012307334d1d4584c2f8def893241, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_ShoeShole_BaseColor
+    second: {fileID: 2800000, guid: 2f66ee9c383916648b8762a644664ce8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_ShoeShole_Metallic
+    second: {fileID: 2800000, guid: 37a5bbab3b449954fba63edf069a04c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_ShoeShole_Normal
+    second: {fileID: 2800000, guid: 9e2c5d45d8602df438d08bec23fda86a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_ShoeShole_Roughness
+    second: {fileID: 2800000, guid: 2a3198307d79db946aef475c27d31e81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_Sticker2_BaseColor
+    second: {fileID: 2800000, guid: e91ca7df0b000bb4f85dc397e829fb90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_Sticker2_Metallic
+    second: {fileID: 2800000, guid: 60f6d72c87cd63541a53fe3da11a4555, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_Sticker2_Normal
+    second: {fileID: 2800000, guid: 86043bf5543ad6d4f88c3c8ba103b29a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_Sticker2_Roughness
+    second: {fileID: 2800000, guid: 12c810c18e23f8b4680f7623264e8a79, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_Sticker3_BaseColor
+    second: {fileID: 2800000, guid: 54a14f218d3f1234e98125170c89fb4d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_Sticker3_Metallic
+    second: {fileID: 2800000, guid: 9df050a1742000541a94d054771fc533, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_Sticker3_Normal
+    second: {fileID: 2800000, guid: 90d05d5b9a17ee64cb8605e45fb62ee1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_Sticker3_Roughness
+    second: {fileID: 2800000, guid: b173ca1f95a896d4e91355e5b374d5a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_Sticker4_BaseColor
+    second: {fileID: 2800000, guid: d96cce7afd1524d43846e15866a3060c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_Sticker4_Metallic
+    second: {fileID: 2800000, guid: 31b1e60100e046e458f9946a537beed1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_Sticker4_Normal
+    second: {fileID: 2800000, guid: 26c2dcbacd5592446b97365f0c8d1a50, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_Sticker4_Roughness
+    second: {fileID: 2800000, guid: 7ff3dc347249b2f40b890dcec896559c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_shoes_BaseColor
+    second: {fileID: 2800000, guid: 170f1ae9c79d9b541a29cfd4cd7857db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_shoes_Metallic
+    second: {fileID: 2800000, guid: b10cec2123ce1334ea6736964feebed3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_shoes_Normal
+    second: {fileID: 2800000, guid: 78bdedbae4a13744db30d6b3acfa6621, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_shoes_Roughness
+    second: {fileID: 2800000, guid: 14d0f295baa28044d81d291cd896ebbd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_sticker1_BaseColor
+    second: {fileID: 2800000, guid: 4cb14fd896196ff44a12f6c6ececd7d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_sticker1_Metallic
+    second: {fileID: 2800000, guid: 5af5a54cbd7b287479718497eba6ae1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_sticker1_Normal
+    second: {fileID: 2800000, guid: 238eabd7beab78749b2415e7510a88e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_sticker1_Roughness
+    second: {fileID: 2800000, guid: c7d0b49620701b647808ce1a962552e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_top_BaseColor
+    second: {fileID: 2800000, guid: b2265deeb6a17d848bdac2d83ffedfe3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_top_Metallic
+    second: {fileID: 2800000, guid: 2eb327abe29228c4dbdb7ee3cea1f2c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_top_Normal
+    second: {fileID: 2800000, guid: 9e4260adab037f5418e5f8854392e41e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boots_top_Roughness
+    second: {fileID: 2800000, guid: e203c8c792f616645a00154d1db3e62f, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

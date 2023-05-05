@@ -6,6 +6,7 @@ public class ExtinguisherCollision : MonoBehaviour
 {
 
     [SerializeField] List<GameObject> gameObjects = new List<GameObject>();
+    [SerializeField] List<ParticleSystem> ps= new List<ParticleSystem>();
 
     private void OnParticleCollision(GameObject other)
     {
@@ -18,6 +19,17 @@ public class ExtinguisherCollision : MonoBehaviour
 
             if (obj.transform.localScale.x <= 0)
                 obj.transform.localScale = Vector3.zero;
+        }
+
+        foreach (ParticleSystem curr_ps in ps)
+        {
+            var main = curr_ps.main;
+
+            if(main.startSizeMultiplier != 0)
+                main.startSizeMultiplier -= Time.deltaTime;
+
+            if(main.startSizeMultiplier <= 0)
+                main.startSizeMultiplier = 0;
         }
     }
 }
