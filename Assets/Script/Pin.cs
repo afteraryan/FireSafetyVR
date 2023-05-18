@@ -14,7 +14,6 @@ public class Pin : MonoBehaviour
  
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("In trigger");
         if (other.gameObject.CompareTag("LeftHand") || other.gameObject.CompareTag("RightHand"))
         {
             GetComponent<Renderer>().material.color = new Color(0, 1, 0);
